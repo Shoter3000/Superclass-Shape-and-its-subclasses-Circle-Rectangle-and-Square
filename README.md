@@ -98,3 +98,6 @@ Write a subclass of `Rectangle` called `Square`. Convince yourself that `Square`
     where `yyy` is the output of the `toString()` method from the superclass.
   - Test whether you need to override `getArea()` and `getPerimeter()`.
   - Override the `setLength()` and `setWidth()` methods to change both the `width` and `length`, so as to maintain the square geometry.
+
+## Exercise Source
+- Link: https://www3.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html#zz-4.5
